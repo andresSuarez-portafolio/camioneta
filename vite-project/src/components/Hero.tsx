@@ -15,12 +15,12 @@ const Hero = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           {/* Text Content */}
           <div className="text-center md:text-left">
-            <div className="inline-block bg-primary-red/10 text-primary-red px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Servicios de Transporte en Neiva
+<div className="inline-block bg-primary-red/10 text-primary-red px-4 py-2 rounded-full text-sm font-semibold mb-6">
+              Servicios de Transporte en Neiva - Andrés Suárez
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-dark-gray leading-tight mb-6">
-              Transporte Confiable y
-              <span className="text-primary-red"> Seguro</span>
+              El Pony Express -
+              <span className="text-primary-red"> Transporte Seguro</span>
             </h1>
             <p className="text-lg text-gray-600 mb-8 max-w-xl">
               Brindamos servicios de transporte de carga y pasajeros en Neiva, Huila. 

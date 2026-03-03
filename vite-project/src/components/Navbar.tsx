@@ -16,8 +16,8 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
-            <span className="text-2xl font-bold text-primary-red">
-              Camioneta<span className="text-dark-gray">Neiva</span>
+<span className="text-2xl font-bold text-primary-red">
+              El Pony<span className="text-dark-gray">Express</span>
             </span>
           </div>
 
